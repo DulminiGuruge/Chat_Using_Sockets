@@ -1,4 +1,4 @@
-# ChatUsingSockets
+# Chat application using Sockets in Java
 
 This is a chat server and client program. The chat server accepts connections from clients. Whenever one of the clients sends a chat message, it is displayed for all other clients to see. 
 Three command protocols used: LOGIN name, CHAT message, and QUIT.
